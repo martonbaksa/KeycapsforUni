@@ -22,7 +22,7 @@ and 1 of all other keycaps.
 
 # For multimaterial / dual color keycap prints, it is recommended to import both of the files into the slicer at the same time. 
 
-- If you are using PrusaSlicer, it will automatically regcognize and combine the model into one piece, allowing you to select the extruder desired for each part if both models are dragged in at the same time and a dual extruder printer is selected.
+- If you are using PrusaSlicer, it will automatically recognize and combine the model into one piece, allowing you to select the extruder desired for each part if both models are dragged in at the same time and a dual extruder printer is selected.
 - If you are using Cura, select both models, and then right click them and combine them into one.
 - If you are using Simplify3D, use the dual extrusion wizard to align the models.
 - Other slicers that support dual extrusion should work as well, however those are the only ones I know the process for.
