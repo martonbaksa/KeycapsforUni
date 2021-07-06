@@ -20,7 +20,7 @@ and 1 of all other keycaps.
 
 - This will print each keycap with a 1mm recessed legend.
 
-# For multimaterial / dual color keycap prints, it is reccomended to import both of the files into the slicer at the same time. 
+# For multimaterial / dual color keycap prints, it is recommended to import both of the files into the slicer at the same time. 
 
 - If you are using PrusaSlicer, it will automatically regcognize and combine the model into one piece, allowing you to select the extruder desired for each part if both models are dragged in at the same time and a dual extruder printer is selected.
 - If you are using Cura, select both models, and then right click them and combine them into one.
